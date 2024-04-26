@@ -1,0 +1,20 @@
+
+
+ul, li{
+  list-style: none;
+}
+
+
+.hide{
+  display: none;
+}
+.active{
+color: blueviolet;
+}
+.main{
+  flex: 1 0 auto;
+}
+
+.wrapper {
+  height: 100%;
+}

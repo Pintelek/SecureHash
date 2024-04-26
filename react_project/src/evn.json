@@ -1,0 +1,4 @@
+{
+  "url" : "http://localhost:5173/note/",
+  "url_backend" : "http://localhost:3500/"
+}
